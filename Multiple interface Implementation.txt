@@ -1,0 +1,2 @@
+one of the most powerful features of interfaces in object level dynamic polymorphism.
+
